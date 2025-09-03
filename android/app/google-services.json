@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183861333054",
+    "project_id": "to-chegando-motoboy-935fd",
+    "storage_bucket": "to-chegando-motoboy-935fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183861333054:android:7457844d3d20dee4ded56f",
+        "android_client_info": {
+          "package_name": "com.tochegando.motoboy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXq0AtbK2yl1wKFyWSJ2ef0FDIcuORMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
